@@ -1,0 +1,27 @@
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+
+body {
+  background-color: white;
+  color: black;
+  font-family: cascadia code;
+}
+@font-face {
+ font-family:cascadia code;
+ font-style:normal;
+ font-weight:400;
+ src:local('Cascadia Code'),
+ url(https://fonts.cdnfonts.com/s/29131/Cascadia.woff) format('woff')
+}
+:link {
+  outline: slateblue
+  color: slateblue;
+  /* The default value of background-color is `transparent`. You need to
+     specify a different value, otherwise changes on :visited won't apply. */
+}
+
+:visited {
+  outline: darkslateblue;
+  color: darkslateblue;            /* Visited links have yellow colored text */
+}
