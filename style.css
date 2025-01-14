@@ -7,7 +7,7 @@ background-size: 75% 75%;
 body {
   background-color: white;
   color: black;
-  font-family: Arial;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 :link {
