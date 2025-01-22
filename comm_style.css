@@ -3,9 +3,9 @@
    "how to change link color." */
 
 body {
-  background-color: black;
-  color: white;
-  font-family: Arial;
+  background-color: white;
+  color: black;
+  font-family: Times New Roman;
 }
 
 :link {
