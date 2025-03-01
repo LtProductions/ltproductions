@@ -12,7 +12,7 @@ body {
 
 :link {
   outline: slateblue
-  color: slateblue;
+  color slateblue;
   /* The default value of background-color is `transparent`. You need to
      specify a different value, otherwise changes on :visited won't apply. */
 }
