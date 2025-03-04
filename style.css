@@ -8,17 +8,17 @@
     background-color: white;
     background-size: 75% 75%;
     color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Times New Roman", Times, serif;
   }
   
   :link {
-    outline: slateblue
-    color slateblue;
+    outline: #ffffff
+    color #ffffff;
     /* The default value of background-color is `transparent`. You need to
        specify a different value, otherwise changes on :visited won't apply. */
   }
   
   :visited {
-    outline: darkslateblue;
-    color: darkslateblue;            /* Visited links have yellow colored text */
+    outline: #7a7676;
+    color: #7a7676;           /* Visited links have yellow colored text */
   }
