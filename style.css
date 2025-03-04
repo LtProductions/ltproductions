@@ -12,13 +12,13 @@
   }
   
   :link {
-    outline: #ffffff
-    color #ffffff;
+    outline: #EAEAB4
+    color #EAEAB4;
     /* The default value of background-color is `transparent`. You need to
        specify a different value, otherwise changes on :visited won't apply. */
   }
   
   :visited {
-    outline: #7a7676;
-    color: #7a7676;           /* Visited links have yellow colored text */
+    outline: #c2c293;
+    color: #c2c293;           /* Visited links have yellow colored text */
   }
