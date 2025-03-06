@@ -4,21 +4,21 @@
 
 
 
-body {
-  background-color: white;
-  background-size: 75% 75%;
-  color: black;
-  font-family: 'Consolas', monospace;
-}
-
-:link {
-     outline: #a463da;
-     color: #a463da;
-     /* The default value of background-color is `transparent`. You need to
-        specify a different value, otherwise changes on :visited won't apply. */
-   }
-   
-   :visited {
-     outline: #7f48ac; 
-     color: #7f48ac;          /* Visited links have yellow colored text */
-   }
+   body {
+    background-color: white;
+    background-size: 75% 75%;
+    color: black;
+    font-family: Tahoma, sans-serif; 
+  }
+  
+  :link {
+    outline: #EAEAB4
+    color #EAEAB4;
+    /* The default value of background-color is `transparent`. You need to
+       specify a different value, otherwise changes on :visited won't apply. */
+  }
+  
+  :visited {
+    outline: #c2c293;
+    color: #c2c293;           /* Visited links have yellow colored text */
+  }
