@@ -5,20 +5,20 @@
 
 
 body {
-  background-color: white;
+  background-color: rgb(39, 17, 17);
   background-size: 75% 75%;
-  color: black;
+  color: #F7F7F7;
   font-family: 'Consolas', monospace;
 }
 
 :link {
-     outline: #a463da;
-     color: #a463da;
+     outline: #8b89ff;
+     color: #8b89ff;
      /* The default value of background-color is `transparent`. You need to
         specify a different value, otherwise changes on :visited won't apply. */
    }
    
    :visited {
-     outline: #7f48ac; 
-     color: #7f48ac;          /* Visited links have yellow colored text */
+     outline: #5e5db4; 
+     color: #5e5db4;          /* Visited links have yellow colored text */
    }
